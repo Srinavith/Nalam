@@ -1,4 +1,4 @@
-# NALAM — OCR-Based Medical Record Parsing
+# NALAM - OCR-Based Medical Record Parsing
 
 **AI-powered medical report digitization for doctors.** July – August 2025
 
