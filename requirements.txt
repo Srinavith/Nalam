@@ -1,0 +1,20 @@
+# Core API
+Flask>=3.0,<4.0
+
+# Vision + OCR. easyocr pulls torch/torchvision itself; they are pinned here
+# explicitly because the pipeline picks the device (CUDA/CPU) via torch.
+easyocr>=1.7.1
+torch>=2.1
+torchvision>=0.16
+opencv-python-headless>=4.9
+numpy>=1.24
+
+# Handwriting recogniser (TrOCR). Pinned below 5 because transformers 5.x dropped
+# the legacy tokenizer conversion the published TrOCR checkpoints still need.
+transformers>=4.44,<5
+sentencepiece>=0.2
+protobuf>=4.25
+pillow>=10.0
+
+# Production server (optional, for deployment)
+gunicorn>=21.2

@@ -1,0 +1,17 @@
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  margin: 20px;
+  max-width: 1100px;
+}
+h1 { font-size: 20px; margin-bottom: 0; }
+h2 { font-size: 16px; }
+table { border-collapse: collapse; }
+th, td { border: 1px solid #999; padding: 4px 8px; text-align: left; }
+table.review, table.review > tbody > tr > td { border: 0; padding: 0 16px 0 0; vertical-align: top; }
+td.scan img { width: 460px; border: 1px solid #999; }
+label { color: #333; }
+pre { white-space: pre-wrap; background: #f4f4f4; padding: 8px; }
+canvas.pad { border: 1px solid #999; touch-action: none; cursor: crosshair; background: #fff; }
+table.stats { margin: 10px 0 20px; font-size: 13px; }
+table.stats th, table.stats td { padding: 3px 10px; }

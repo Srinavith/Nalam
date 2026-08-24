@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# NALAM runtime data — patient scans and the local DB never belong in git
+backend/uploads/
+backend/*.db
+*.sqlite3
+
+# Node / Vite
+node_modules/
+frontend/dist/
+*.log
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
+
+# Fine-tuned recogniser checkpoint (hundreds of MB, rebuild with backend/finetune.py)
+backend/models/

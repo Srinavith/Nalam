@@ -1,0 +1,1909 @@
+# NALAM formulary - the vocabulary a noisy handwriting read is snapped to.
+#
+# REPLACE THIS with your own clinic's drug list. Accuracy on handwriting depends
+# more on this file than on any model setting: a recogniser that reads "cofotil"
+# only becomes "Cefotil" if Cefotil is listed here.
+#
+# Contents: the full RxHandBD drug vocabulary (MIT, https://zenodo.org/records/18478741)
+# plus common generic names, dosage forms and instructions. This stands in for a
+# real Bangladeshi formulary. NOTE for anyone quoting accuracy numbers: benchmark
+# figures measured with this file are NOT held out, because it contains the words
+# the benchmark asks for - exactly as a real clinic's formulary would. The held-out
+# number (train-split vocabulary only) is reported separately in the README.
+#
+# One entry per line. Blank lines and '#' comments are ignored.
+5% dns
+?icrogent
+A-flux
+A-Flux
+A-fun
+Aaxius
+abasaglar
+Abasaglar
+Abicon
+abicon max
+Ace
+Ace power
+Ace Power
+Ace XR
+Acemox
+Acetaminophen
+acliz plus
+Acliz Plus
+acron
+Actilac
+actilac
+Actrafid
+Actrapid
+actrapid
+Acyclovir
+Adora
+Adovas
+aeropen
+afix
+Afix
+Afrin
+after meal
+Airmont
+Aislof max
+alafix
+Alanol
+Alatol
+Alatrof
+Alatrol
+Alben
+Albendazole
+Albumin
+albutein
+Albuterol
+Alc
+Alcef
+Alcet
+alcet
+Alect
+Alfane
+Alfix
+algecal
+Algend
+algin
+Algin
+Algin Plus
+Algin Sorg
+alix
+Allcaron
+Allopurinol
+Allyglot
+Almex tab
+Alolrol
+ALOS
+Alprazolam
+Alrin
+ambrox
+Ambrox
+Ambroxol
+Ambroy
+amdocal
+amdoral
+Amikacin
+amilin
+Amilin
+Amino Plm
+Aminosol
+Amitip
+Amitriptyline
+Amlip
+Amlocal
+Amlodipine
+Amlrocaf
+Amoxicillin
+Amoxiclav
+anadol
+Anadol
+Analac
+Ancor 5
+aneobex
+Anfree
+Anfrocef
+Anfuye
+Angilock
+Anitip
+Anlin
+Anodof
+Anodol
+ansef
+Anset
+Ansilou
+Anstouit
+Ansulin
+Antacid
+Antazol
+antazol
+anustat
+Anustat
+Aorifip
+Apeclo
+apedra sr
+Apeelo
+apuldon
+Aristovil-B
+Aristovit
+Aristovit -B
+Aristovit-B
+Arlila
+arlin
+Arlin
+Arnitip
+Aropen
+Aropens
+Arsiloca
+Arth
+arth
+Arth A Max
+Arth A max
+Arth An
+Arth ATS
+Arth-A Max
+artica
+as needed
+Ascobex
+Ascoson
+ascoson
+Aspirin
+Asthma
+Asynta
+asynta
+Asynta max
+at bedtime
+Atenolol
+atlin
+Atorvastatin
+Atoz
+Atozen
+Auolac
+Autazol
+Avloclav
+Avolac
+avolu
+Axim
+axim
+Axim CV
+axim cv
+Aximcy
+axon
+Ayim
+Azibact
+Azinel
+Azinil
+Azithromycin
+Azosite
+B. 50 forte
+bactrocin
+Bactrosin
+Baemax
+Barbit
+Barmax
+Bartrocin
+Baumax
+becobion
+Becobion
+Beconal
+before meal
+beklo
+BEKLO
+Beklo
+Beklo 10
+Ben A
+bengel
+Best Fresh
+betaloc
+Betamethasone
+Bex 10
+Bexitrol
+Bexter
+Bextwfiluy
+Bicozin
+Bilan
+Bilau
+Bilau 20
+Bilax
+Bilaxe
+bilaxe
+Bildent
+Bilfast
+Bilfastl
+Bilista
+Billi
+Bilon
+Biloxe
+Bilozin
+Biltant
+Biltin
+Biltin 20
+Biocal-Dx
+Bionic
+Biscor
+Biscor 5
+Biscor max
+Bislol
+Bislol 5
+Bisnen2.5
+Bisoprolol
+Bisoren
+Bisoren 5
+Bizoran
+blomen
+Blood
+BONID
+Brain.V
+Bredicon
+Brezofil
+Brezofil 200
+Brodil
+Brodin
+Bromen
+Bromhexine
+Bron Gel
+BRON GVEL
+BRON WASFI
+Bron Wash
+Broxolite
+Budesonide
+budicort
+Bukof
+cabergol
+cabetool
+cabretol cr
+Caficid
+Cafixim
+calacef
+Calamine
+Calbo
+Calbo D
+Calbo-D
+Calbon
+calboral
+Calboral
+Calboral D
+Calboral Dx
+Calboral DX
+Calboral dx
+Calboral-D
+Calboral-Dx
+Calboral-DX
+Calborul-D
+Calcium
+calcor
+Calcor-D
+Calcor-Dx
+Callin
+Calnor
+candifast
+Canficid
+Cantilid
+cap
+cap. Dexilend
+Cap. ESONEX
+cap. Esprazo
+cap. Ferix-v
+cap. Flugal
+Cap. Foldin
+cap. Folzim
+cap. Folzin
+cap. Fzsprazo
+cap. Maxpro
+Cap. zif
+Cap.Fusprazo
+Caprodycin
+Capsule
+Carbamazepine
+Carbimazofe
+Carbimazole
+Carticare
+Carulcal D
+Carva
+Cavinton
+CBC
+cbc
+Ceevit
+ceevit
+Cef-3
+Cef-B
+cefaclav
+Cefaclav
+Cefaxine
+cefazid
+Cefim
+Cefin-B
+Cefixim
+Cefixime
+Cefofi Plus Sw
+cefotil
+Cefotil
+cefotil plus
+Cefotil Plus
+Cefrid
+Ceftadixime
+ceftazidime
+Ceftriaxone
+ceftriaxone
+Ceftron
+Cefuroxime
+Cefuroximee
+celebrex
+Cephalexin
+cetaclav
+Cetaclav
+Cetinol forte
+Cetirizine
+Cewfilid
+Cfe Maxfee
+Cheort-Dx
+Chlorpheniramine
+Cholecalciferol
+Cidex
+Cifaclav
+cildip
+Cildip
+Cildip 10
+Cildip 5
+Cildnp
+Cinamycin
+Cinaron
+Cinaron Plus
+Ciponaal
+Ciprofloxacin
+ciprox
+Clacef
+clacef
+clarin
+Clarithromycin
+Clavulanate
+Clavusef
+clavusef
+Clavusef sw
+clavutil
+Clavutil
+clexane
+clindacin
+clindamycin
+Clobetasol
+Clofenal
+Clonapex
+clonapex
+Clonazepam
+Clopid
+Clopidogrel
+Colchicine
+Colistin
+collagen-d
+Combicid
+combicid
+Comet
+Comficid
+Comlricid
+Comprid
+Conit XR
+Conit-XR
+Cor algen-D
+Cora DX
+Cora Dx vitr
+Coragen-D
+Coragu-D
+coral
+coral cal
+coral cal d
+coral rd
+coral-dx
+Coralcal
+Coralcalry
+Coraleal
+Coralex DX
+Coralgue D
+corox
+CORTAN
+Cortan
+Corulcal-D
+Cosec
+cosec
+Costan
+Cotnim
+Cotrim
+Cotson
+cotson
+Cowficid
+coxe
+Cp Dexter
+Cratuftzr
+Cream
+Creston
+Cridip 10
+criptin
+CRP
+Cyclorox
+D Cap
+D-cap
+D-cop
+D-Rise
+DDR
+DDR 30
+DDR-Bomg
+Decoral
+Defalin
+Defcalivo
+Deflacort
+deflaxen
+Defzacort 6
+Deixil
+Deixl
+Dekalin
+Delanix
+Delcalen
+Delfian
+Delfmz
+Delfmz 30
+Delfnj
+Delfraf
+Delfrnz
+Delfroz
+Delfrz
+Delfxz
+demelon
+Demoxiclav
+Denixil
+denixil
+Denoxidov
+denvar
+Denvar
+Derolon
+Deromax estam
+Desfviz
+Deslong
+Deslor
+Desolon
+Detfacavt
+Detfacf
+Deuxil
+deviry
+Devixi
+Devixil
+Devixil 0.5
+Devoci(uer)
+Dexa
+Dexamethason
+Dexamethasone
+Dexcin
+Dexfacar
+Dexila
+Dexilend
+Dexin
+Dexlor
+dexnaaf
+Dexnaaf
+Dexnaat
+Dexnaof
+Dextac
+dextac
+Dextal
+Dexter
+Dexter 30
+Dexter 60
+Dexter.60
+Dextromethorphan
+Dezlo
+Dia-K
+diabetic
+Diabetic
+Diaryl
+diaryl
+Diazepam
+dicaltrol
+Diclofenac
+diet
+Diet
+Digoxin
+Dilalyof
+Dimex
+Dinovo
+DINOVO
+Disopan
+dmiden
+docopa
+Docopc
+Domin
+domin
+Dominos
+Domperidone
+DON A
+don A
+Don A
+Don- A
+don-a
+Don-A
+Dopecgut
+Dophylin
+Dophyllin
+Dophyllinc
+Doxicap
+Doximax
+Doximev
+Doxiva
+doxiva
+doxoven
+Doxoven
+doxva
+Doxycap
+Doxycycline
+Drexy
+drise
+Drop
+drop
+Drops
+Dueblock 5
+dulox
+Duloxen
+Duloxetine
+Duoblock
+Duracef
+Duralax
+E-cap
+E-gel
+E-gel 200Iu
+E-vit
+Ecerhimu
+ECG
+Econate
+Ecosprin
+ecosprin
+Ecosprin Plus
+Ecoxib
+Edeloss
+Efedio
+Efodio
+efodio
+Eggcal
+Eggcot
+Elija
+Elodep
+Elodep 5
+Elosfiv plus
+Emazid
+Emep
+emep
+Emetid
+Emezrd
+emi-xit
+Emistat
+emistat
+emixef
+Emjard
+Emlidus
+Empagliflozin
+Empofi
+Emprelina
+Enalapril
+Endever
+Endurex
+Enjard
+ENQ
+Entecavir
+Epitra
+epitra
+ERP
+Esahil
+ESCilex
+Escilex
+escilex
+Escitalopram
+Escolex
+Esipram
+Eslilex
+Eslilex 5
+esmax
+Esmax
+Esobest Mups
+esohil
+Esohil
+Esomand
+Esomax
+Esomeprazole
+esomix
+Esonix
+esonix
+Esoral
+esoral
+Esotid
+Esotid Mups(zx)
+Esotil
+Esover
+Esprazo
+esprazo
+Esprozo
+Estes
+Estes 300
+etorac
+Etorix
+etorix
+Exeptim
+exium
+Exium Mups
+Exlilex 5
+Eyium
+Eylox
+Ezylife
+Ezytake
+f lubre
+Faenor
+Famolack
+Famotidine
+Farofew
+faropen
+Faropew
+Farpev
+Fasid Plus
+Fasopen
+Fatisol
+Febun
+Febusful
+febustat
+Febustat
+Febuxostat
+feeviu
+femotol
+fenadin
+Fenadin
+Fenafir
+fenisen
+Fenix
+Fenix-v
+fenix-v
+Fenix-V
+Fenodin
+Fensiv
+Fentizol
+ferix-v
+Ferix-v
+Ferix-V
+Feropen
+Ferrous
+Ferti-Q
+Feryx
+Festam gel
+Feufiv
+Feup
+Feursilal
+Feusiv
+fevaliv
+Fexit
+fexo
+Fexo
+FEXO
+Fexo 120
+fexocon
+Fexofast
+Fexofenadine
+Fexofenadinee
+Fexolet M
+figfimef
+filmef
+filmet
+Filmet
+filnet
+Filofer
+Filoter
+Filwef
+Filwef Gold
+fimix
+Fimoxyclav
+Fimoxyl
+Finasteride
+finix
+Finix
+Fixal
+fixalrt
+Fixcef
+Fixcef Plus
+Fixcel
+Fixgul
+fixgut
+Fixgut
+Fixgut 10
+Fixocard
+fixocard
+flacol
+FLAMEX
+flamex
+Flamex
+Flamfix
+flamyd
+Flamyd
+Flayd
+Fleme max
+flemex
+Flemex Plus
+Flemorif
+Flenex Dew
+Flexi
+Flexibac
+Flexinor
+Flubex
+fluclox
+Fluclox
+flucloxacillin
+Flucloxacillin
+Flucloxin
+Fluconazole
+Fluelox
+Flugal
+Flugat
+Fluma
+Fluoxetine
+flurif
+Flux
+flux
+Flv
+Folic
+Folison
+Folita 5
+folive
+Follison
+folzin
+Folzin
+Folzin-Cl
+FONA
+for 10 days
+for 3 days
+for 5 days
+for 7 days
+Formoterol
+Fossical D
+Fougest
+fpeimcore
+Frabex
+Fremit
+Frenxil
+Frenxit
+frframf 40
+Frulac
+Frulae
+Fuclav
+fuclav
+fun cream
+Fungidal
+Furocef
+Furoclav
+furoclav
+furonaaf
+Furosemide
+Furotil
+Furotil Plus
+fusid
+Fusid
+Fusil Plm
+Fxsid Plus
+Fylox
+fzsprazo
+G-pethidne
+gaba p
+Gabapentin
+Gagwol
+Garcon
+gascon
+gasnil
+gaviflux
+gavilac
+Gavinaaf
+Gavisus
+Gavitfep
+Gavitfx
+Gefapix
+Gel
+geolan
+Geotoenol
+Geoton
+Geotrenol
+Gerfon
+Gerhinal
+Gerlon
+Germicord
+Geslon
+Gestin
+Gestirenol
+Geston
+Gestrenol
+gestrenol
+Ginoba
+ginoba
+Gintabac
+Gintex
+glanine
+Glarine
+Glasin
+Glicid
+Gliclazide
+Glimepiride
+glinta
+Glymed
+Glymfa
+Glyset vita
+Glysup
+glysup
+Glyxan
+Greemox
+Greenox
+GTN
+Guaifenesin
+halconf
+halconl Dx
+halcorl
+hallornl Dx
+hansol
+Hartman
+Hastaol
+Hemofir FZ
+hemofix
+Hemofix
+hepamore
+Hepanor
+Hepeximin
+Heranor
+Hermoquf
+herpex
+Hexinor
+hici
+high
+histacin
+Histacin
+histal
+Histal
+Histat
+Histol
+Hot Compression
+hpr ds
+HPR DS
+hulilax 24
+hutilax
+Hydrochlorothiazide
+Hydrocortisone
+Hydronix
+Hydroxychloroquine
+Ibuprofen
+Imipenem
+Inderal
+Inderen
+Indever
+Indever 10
+Indever 20
+Indever f
+Indevex
+Indiver
+indo
+Indo
+Indooref
+Indover 10
+Inhaler
+inj
+Injection
+Insulin
+Insulin R
+Inxo-A
+Ipratropium
+Iracet
+Iron
+Isosorbide
+Itogut
+Itokine
+Itokine 50
+Itoklav 50
+Itolcive 80
+Itraconazole
+Itrahil
+Itralul SB
+Ivermectin
+Joint Relif Plus
+K-flam
+K-flex
+K-one
+K2cal
+k2cal
+kacin
+Kacin
+Kalcoral
+Kallonl Dx
+Kalorl Dx
+Katomor
+Kefuclav
+Keto
+Ketoconazole
+ketoflax
+Ketorolac
+ketorolac
+Kibac
+kinate
+Kinate
+Kindial-D
+kindical D
+Klabid
+Klobid
+Knee joints
+Lacfu
+Lacto
+Lactomone
+Lactomore
+lactomore
+Lactu
+lanolin
+lanso max
+lansomax
+Lantus
+Lasix
+latilax
+LBP following
+Learxir
+lecor
+Lecor
+Lelox
+Lerozol
+Lestarin
+Levetiracetam
+Levocetirizine
+Levofloxacin
+levofloxacin
+Levothyroxine
+Levox
+liberts
+Libidex
+libott
+Libott-S JR
+Lifanta
+ligazid
+Ligazid
+Limbix
+Limtab
+linatab
+Linatin
+Linax
+linax plus
+lindac
+Lindac
+linux plus
+Lipicon
+Liprolin
+liquid
+Liquid to soft
+Lisinopril
+lnfilax
+loba-g
+Loba-G
+Lopiren
+Loratadine
+Lorazepam
+Losartan
+Losectil
+Losita
+loxodol
+Loxodol
+Lubilax
+Lubilay
+Lubilex
+Lubilox
+lufilox
+lullonl Dx
+lulrilax
+Lumana plus
+Luminus
+Lumona
+lutilax
+Lutilax 24
+Lwfilex 24
+Lyric
+lytex
+M-Kast
+m-lucas
+M-lucas
+m-lucas 10
+M.kant
+Macrobac
+Magnesium
+magni
+Malucan
+Maopuotuel
+matima
+Matina
+Max dol
+Max Pro
+maxdol
+Maxigam E/D
+Maxima
+Maxirra
+maxpro
+MaxPro
+Maxpro
+Maxrin
+maxrin
+Maxrin D
+Maxsulin
+Maxsulin R
+Maxuline-R
+mecol
+Mecol
+Mecor
+Medi Plus
+Medragust
+Medroxy
+mefanide
+Meffo
+mefhomof
+megaba
+Megulol
+Melhomofsw
+melpred
+Melpred
+menofemin
+Menoral
+menoril
+Merdin
+Merdir
+Merincal-D
+merocil
+Meropen
+meropen
+meropenem
+Meropenem
+merrobe
+Merthomol
+Mervan
+Mervax
+Merven-SR
+Mesacol
+metaconil
+Metaomol
+Metformin
+methicap
+Methicap
+Methimazole
+methomol
+Methomol
+Methox
+Metoclopramide
+Metoprolol
+metro
+Metro
+Metronidazole
+meur
+Mexpro
+Micoral gel
+Microcef
+Microgcofi
+microges
+microgest
+Microgest
+Microgurt
+Microsegt
+mig
+Mig 2.5
+migo
+milam
+Minnate
+miraba
+mirata
+Mitpr
+Mixit
+mixit
+mofigut
+Momvit
+Monas
+monas
+Monas 10
+Monfast
+monfast
+Montair
+Montelm
+montelon
+Montelon
+Montelukast
+montene
+Montene
+Montinex
+Montrlon
+Morphin
+Motigut
+motigut
+Moumcaze
+mouthwash
+Movafllfj
+moxibac
+Moxigram
+moxigram
+moxilin
+mucolyt
+Multivitamin
+Mupirocin
+Mups
+Myolax
+myolax
+myosit
+myotax
+N-Itepa
+N-max
+N-Max
+n-max
+N-MAX
+N-MAX SO
+Nabu
+Nabu pain
+Nabumef
+nabumet
+Nacl
+nacl
+Nafro A plm
+Nafro A plus
+Nafumef
+Nalbun
+nalbun
+Nalbun - 2
+nalbun 2
+nalbun-1
+nalbun-2
+nalbun-2.1
+Nalbun-Z
+nalepsin
+Namefan 750
+Namefon
+nameton
+Nameton
+napa
+Napa
+Napa Extend
+Napa Extra
+Napa extra
+napa one
+Napa One
+Napa one
+Napa Rapid
+Naporx
+napro
+Napronex
+Naprosin Plus
+Naprosyn Plus
+Naprox
+naprox
+Naprox plus
+Naprox Plus
+Naproxen
+Napryn
+Napxon
+nasal
+Nasal
+Natumef
+Navilum
+Ncotion
+Nebanol
+Nebulization
+nebulization
+neclufe
+neelufh
+Neemoxew
+Nenvopex
+Neobion
+Neopem
+Neopenem
+Neptor
+nerrion
+Neruopex
+Nervion
+nervion
+Nervoprx
+Neso
+Nesotem
+Neugalin
+Neumig
+Neuming
+Neuro
+Neuro 0.5mg
+Neuro A Plw Sw
+Neuro B
+Neuro-B
+neuro-b
+Neurobest
+Neurocet
+Neurolin
+neurolin
+Neurolin 10
+Neurolin 25
+Neurolin CR
+Neurou
+Neuroxen
+neuroxen
+Neuvoxew
+Newoxew
+Nexc
+Nexcital
+Nexe
+nexe
+Nexe Mups
+nexe mups
+Nexe mups
+nexe mvs
+Nexe-Mups
+Nexe-mups
+Nexemig
+Nexmig 2.5
+nexpro
+Nexpro
+Nexum
+nexum
+Nexum Mups
+Nexum mups
+Nexum Mups 20
+Nexum mups 20
+Nexum-mups
+Nidipine SR
+Nifin SR
+Nimens
+Nimifete
+nintoin sr
+Niobcard Rtd
+nislofs
+Nitr
+Nitro-SR
+Nitrocontive
+Nitrofur
+Nitroglycerin
+Nonum
+Nopxon
+Norestin
+Norim D
+Norium
+norium
+Norium 5
+normal
+Normal
+normanal
+Normant
+Normeivo
+Normen
+Normens
+normens
+Norsol
+Nortum
+noswua
+noswvc
+Novelin lite
+Novelon lite
+Novelon Lite
+novonil
+Novotrif
+Novotril
+novotril
+Nucef-cv
+Nucef-CV
+Nufrifil Cold
+Nufvw
+Nufw
+Nuhw
+nuloc
+Nulrifil Golf
+Nurnal
+Nutridex
+nutrifil
+Nuvifer
+nystat
+Nystat
+o2 inhalation
+Ocef
+Oclazid
+ocof
+Ofloxacin
+Ofran
+ofran
+ointment
+Ointment
+Olanzapine
+Omastin
+Omep
+omep
+Omeprazole
+omeprazole
+Ometid
+Omidon
+omidon
+omira
+Onacal-D
+onaseron
+once daily
+Ondansetron
+Optimax
+optimox
+oricef
+Oricef
+Orinou-D
+ornopain
+Orofer
+osec
+ossica
+Ossica
+ostalal Cex
+ostocal
+Othera
+Ovit-A
+Oxybutynin
+oxycol
+Pain at calf
+Pair
+Palonron
+Paloven
+Paloxi
+palpitation
+Pama Serg
+Panaseng
+Panied
+pantonix
+Pantonix
+Pantoprazole
+Paracetamol
+pase
+Pauion
+paveset
+pel. Desolan
+Peli. Derolon
+Pelverin
+Peridon
+Periodontitis
+Permethrin
+Pethidine
+Phauolid Soaf
+Phenocid
+Phenytoin
+Phylopen
+phylopen
+Phylopen-Ds
+Pioglitazone
+Pirulin
+Plagnin
+Plagrin
+plaqriw plus
+Pli 50
+Plus
+ponsal
+Povifep
+Povital
+PPI
+Precabil
+prechery
+Prednisolone
+Pregabalin
+Pregan
+pregmo
+Pregmos
+prelics CR
+premac
+Prestal
+Prestel
+Prindof
+Pripmmf
+Priten
+Prnzofress
+Pro Gio
+probio
+Profen
+Profenid Gel
+Profenid Gell
+Profinex
+Profrauof
+progest
+progut
+Proindof
+Proliv
+prolix
+prompton
+pronex
+Pronex
+Pronex Mups
+pronex mups
+propenta
+prosesf
+protein
+Protio
+Purifen
+Purisal
+purisal
+Purtisol
+Qtof
+Quetiapine
+Quiet
+Quridew
+Rabeprazole
+Radifil
+radiflex
+Radiflex rafid
+Raditil
+raditil
+Raditril
+Rafiflo 8
+Rafino Forte
+Ralee
+Ralripus
+Ramipril
+Ranitidine
+Rasiflep
+Rasiflex
+ratinol
+Ratinol
+Ratinol Forte
+ratnol
+Raufitfup plus
+Rausiflex Plus
+Ravliflex
+rbc
+RBS
+Rcef-Dx
+Rebe
+rechnol
+Reconil
+rectinol
+Reef-Dx
+Reefcal-Dx
+Reelife
+reelife
+Reelifr
+Regler
+Regular
+Relaxo
+Relenfn
+Relenten
+relenten
+Relentus
+relentus
+Relvis
+Remac
+Remmo
+remmo
+renal
+Renova
+renova
+Renova XR
+Rephaston
+replastw
+Reserux-SR
+Reset
+reset
+Resfazit
+Resitfex plus
+Respazit
+Retinol
+Reto
+Revarol
+Revatol
+Revere
+Revert
+revesf
+Revital
+Revocit
+Rex
+Rexlife
+Rexrisx-SR
+Rezco
+Rhinomist
+ribojovef
+Ribosore
+Rifagut
+Risperidone
+Rivarox
+Rivo
+Rivotril
+rivotril
+Rivyox
+Robac
+Roclav
+roclav
+Rodiflex
+Rofip
+Rofixim
+rofnp
+Rofuclav
+Rohie
+Rohuf
+ROlac
+Rolac
+rolac
+Rolae
+Rolip
+Ronem
+ropitor
+Rosetn
+Roseton
+Rostil
+rosu
+Rosu
+Rosu 10
+Rosuva
+Rosuva 5
+Rosuvastatin
+rosv
+Roswva 10
+roswva 5
+rotalac
+Rotalac
+Rotinaf fote
+roxadex
+Roxadex
+Roxim
+Roxtal XP
+Rozita
+RTV
+rtv
+Ruchigold
+Rudi 120
+Ruotinl
+rupa
+Rupa
+Rupadin
+RUPIN
+Rynuxo
+Sachet
+Salbutamol
+Salost
+Salost Dx
+Sanbin
+Sandin
+Sardopa
+sckoria
+Scluprud
+Scryel
+Seclo
+Secrin
+Sedil
+Sefr
+Sefra
+Seko
+Seko Polem
+Sekodex
+Sekorin
+Sergel
+sergel
+Sertraline
+Seruh Mups
+Setra
+Sidobac
+Sildenafil
+Silodosin
+Simethicone
+Simvastatin
+Sindala
+Sitagliptin
+sodibar
+Sofbian
+Solon
+solupred
+Solupred
+soluprud
+Specbac
+Sperm Core
+Spilac
+Spilac F
+Spironolactone
+Sponocid
+Stemetil
+Sucralfate
+Sucsef
+Sup. Apelz
+supp
+Suppository
+Supra-B
+Suspension
+Suzyme
+Svcset
+Syndopa
+Synogen
+syp
+Syp Asyntamax
+Syp Cortam
+Syp Deslor
+Syp xyril
+Syp. urisef
+Syrup
+T-Cef
+t-mahon
+t-mycin
+tab
+Tab Cordca
+Tab.  NEXUM
+Tab. Algin
+Tab. Amitip
+Tab. Amitip 10
+Tab. ANADOL
+Tab. Anth
+Tab. Arislovit-B
+Tab. Beklo
+TAB. BEKLO
+Tab. Calbo
+Tab. Calboral
+Tab. Calboral-Dx
+Tab. Calcor-D
+Tab. CEEVIX
+Tab. cifotil
+Tab. cifotil plus
+Tab. clacido
+Tab. Deap
+Tab. Don A
+Tab. Don-A
+Tab. Epitra
+Tab. Esotid
+Tab. Etorx
+Tab. Flamex
+Tab. Galoa
+Tab. Geofoenil
+Tab. Maxiwa
+Tab. Maxpro
+Tab. Menoral
+Tab. Naprosyn Plus
+Tab. Naprox
+Tab. Neobean
+Tab. Neuro
+Tab. Neuro-B
+Tab. Neuro.B
+Tab. Nexum
+Tab. Normen
+Tab. Normens
+TAB. OUOCM-D
+TAB. PENOULY
+Tab. Rupa
+Tab. Xinc-B
+Tab.Aristovif-3
+Tab.calboral
+Tab.Don-A
+Tab.Neuro
+Tablet
+Tajenta
+tajenta
+tal
+Tamsulosin
+tarlica
+Tarlica
+tas
+Tazid
+Tb. Altaxc
+Tb. Anginta
+Tb. Calboral-D
+Tb. Defrol
+Tb. Mccol
+Tb. N- Max
+Tb. Torax
+telcard
+Telecordip plus
+Telfast
+Telfro max
+telmacal
+Telmacal
+Telmiaip
+Telmicard
+Telmidip
+Telmisartan
+Telmiva
+Telmivas
+Telmocal
+Temlonil
+temo
+Tendonil
+Tenocab
+Terbi max
+Terbia
+Terbikill
+Terbinafine
+Termitan
+Tersilla-SR
+Terxilla-SR
+Tesfro max
+Tevox 500
+Texfro max
+texit
+Texit
+Theophylline
+three times daily
+Thyrox
+Tiginor
+Tigover
+Timptin
+Tmiptin
+Tnaxyl
+Tnplwpln
+toco
+todef
+Todet
+Todol
+todol
+tofen
+Tofen
+Tojenta
+Tomdolin
+tomy
+Tonlino
+top
+Top
+Topmate
+toradolin
+Toradolin
+Toramax
+Toramex
+Toramex 10
+Torat
+Torax
+torax
+Torex
+Torix
+Tory
+Tosou 50
+toxit
+TPC
+Tramadol
+Traxy 500
+Traxyl
+TRD Coutine
+TRD Couture
+Trerox
+Trevox
+Triject
+Trilock
+Trilock 10
+Triolon
+Triptin
+Trizon
+Trocar SR
+trodolin
+Troxyf
+trum-3
+Trypt
+Tryptim
+Tryptin
+tryptin
+Tryptin Plus
+Turboclav
+turboclav
+Tuspel
+twice daily
+tyclav
+Tyclav
+Ubi Core
+ubicore E
+ucof
+ucrafate
+Uful Dx
+Ulfix
+uliv
+uliv 1
+uliv 150
+uliv150
+Ultrox
+Unatin
+unbery
+Unomax
+Uric Acid
+uriset
+Ursocol
+Utifos
+Utromeg
+v-cal-2
+V-plex
+Valex
+Valex CR
+Valic CR
+valix CR
+Valproate
+Vancomycin
+vancomycin
+vaptam
+Vasco
+vasco
+VASCO
+vaxitet
+vbi care
+Velcal
+Vergon
+vergon
+vergun
+verqon
+Vibrenta
+Vidamef
+Vifas
+vigfimef
+vigfimet
+viglimef
+viglimet
+vigorex
+vigorex 50
+vigorey
+vildamef
+vildamet
+Vildamet
+Vineet
+viodin
+viscxywgxne
+visel
+viset
+visnon
+vitabin
+vitabion
+Vitamin
+vofifew qel
+Voligel
+voligel
+Voligel Max
+Voligel.Max
+Volinac
+volirac max
+Voltalin
+voltalin
+Voltalin -D
+Voltalin Syrup
+Vonacab
+Vonocab
+vonocab
+Vonorab
+Vorifast
+Vorinox
+vorinox
+vorirox
+VoxBone
+voxbone
+vurocare S R
+Warfarin
+wficore
+wfiCore
+Wfolil plm
+Wiflex
+windel plus
+x-dol
+X-fen
+X-ray
+X-ray C/S
+Xamic
+xamic
+Xanna
+Xanra
+Xinc
+xinc
+xinc B
+Xinc B
+xinc b
+Xinc-B
+Xiva
+Xolpro
+Xone-B
+Xrlpro
+xyflo
+Xyflo
+Xylin
+Xylio
+Xyril
+xyril
+xyrl 10
+Yonocab
+Zenup
+zerup
+Zesup
+zif-ci
+zimax
+Zimax
+Zinax
+Zinc
+zinc b
+Zit A
+zithrox
+Zo-mups
+Zo.mups 20
+Zodep
+Zolfin
+Zolhivm 5
+Zolivox
+Zollium
+Zollium 0.5
+Zovia
+Zovic Gold
+Zox
+Zymat Pro
+Zymef
+Zymef Pro
+Zymef-Pro
+Zymet
+Zymet Pro
+Zymetpro
